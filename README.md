@@ -29,7 +29,7 @@
 ```yaml
 aditya_profile:
   role: "AI/ML Undergraduate & Full-Stack Engineer"
-  education: "B.E. in Artificial Intelligence & Machine Learning @ BMSIT Bengaluru (CGPA: 9.55)"
+  education: "B.E. in Artificial Intelligence & Machine Learning @ BMSIT Bengaluru"
   core_strengths:
     - "Production-style LLM & Agentic Systems (Tool-Calling, MCP, Structured Extraction)"
     - "Full-Stack REST Architecture (React, TypeScript, Node.js/Express, Flask, FastAPI)"
