@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=220&section=header&text=Aditya%20Sagar%20Mithare&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Full-Stack%20Developer&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Building+Reliable+Agentic+AI+Pipelines+%E2%9A%99%EF%B8%8F;Full-Stack+Architect+(React+%7C+Node+%7C+Flask)+%F0%9F%9A%80;SprintX+Hackathon+Runner-Up+%F0%9F%A5%88;B.E.+AI+%26+ML+%40+BMSIT+(CGPA:+9.55)+%F0%9F%8E%93" alt="Typing SVG" />
-  </a>
-</div>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-mithare-52356a333/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -33,28 +27,12 @@ aditya_profile:
   core_strengths:
     - "Production-style LLM & Agentic Systems (Tool-Calling, MCP, Structured Extraction)"
     - "Full-Stack REST Architecture (React, TypeScript, Node.js/Express, Flask, FastAPI)"
-    - "Data Structures & Algorithms in Java (220+ problems solved)"
+    - "Data Structures & Algorithms in Java"
   engineering_philosophy: >
     "I believe in structuring clear reasoning and resilient system architecture
      before writing a single line of code — shipping reliable, production-ready
      systems over fragile one-off demos."
 ```
-
----
-
-### 🚀 Live GitHub Metrics & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsaditya2836&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=7928ca&text_color=c9d1d9" alt="Aditya's GitHub Stats" height="165" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsaditya2836&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9" alt="Top Languages" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsaditya2836&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d2ff&ring=7928ca&fire=ff007f&currStreakLabel=00d2ff" alt="Aditya's GitHub Streak" height="165" />
-</div>
 
 ---
 
@@ -117,7 +95,7 @@ aditya_profile:
 | :--- | :--- | :--- |
 | 🥈 **2nd Prize Winner** | **SprintX AIML & AR/VR Hackathon (Nov 2025)** | Built and pitched **StudentFlow** in a 24-hour sprint. Collaborated in a 4-person team, integrating Gemini for personalized actionable feedback and business feasibility. |
 | 🇮🇳 **Project & Architecture Lead** | **Smart India Hackathon (SIH)** | Architected **DNK**, an end-to-end voice-enabled artisan export platform orchestrating MLX Whisper, Gemini API, and FastAPI microservices. |
-| 🎓 **Academic Distinction** | **B.E. AIML @ BMSIT Bengaluru** | **CGPA: 9.55 / 10.0** — Top tier academic performance combining strong algorithmic rigor and software development. |
+| 🎓 **Academic Excellence** | **B.E. AIML @ BMSIT Bengaluru** | Pursuing B.E. in Artificial Intelligence & Machine Learning with focus on algorithmic rigor, agentic systems, and full-stack development. (C.G.P.A - 9.55)|
 
 ---
 
